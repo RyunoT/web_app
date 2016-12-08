@@ -101,3 +101,4 @@ if hasattr(canvas, 'getContext'):
     show_hours()
 else:
     doc['navig_zone'].html = "On Internet Explorer 9 or more, use a Standard rendering engine"
+
